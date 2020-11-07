@@ -1,0 +1,6 @@
+sudo apt update
+
+sudo > as admin
+apt > package manager
+update > run update from package manager
+

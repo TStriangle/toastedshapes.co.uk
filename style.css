@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(71, 71, 71);
+    color:plum;
+font-family:verdana
+}
+
+img {
+    max-width: 800px;
+    height: auto;
+}
+
+a:link {
+    color: plum;
+}
+    a:visited {
+        color: magenta;
+    }
+    a:hover {
+        color: pink;
+    }
+    a:active {
+        color: lime;
+
+  
